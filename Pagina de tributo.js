@@ -1,0 +1,1 @@
+const projectName = 'PFCC-Pagina de tributo';
